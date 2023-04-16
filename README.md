@@ -1,5 +1,8 @@
 # learn-shell
 
-# we will learn shell scripting topics
+### we will learn shell scripting topics
 
-### configure the shell automation code
+### List of shell script topics
+
+1. variabls
+2. functions
